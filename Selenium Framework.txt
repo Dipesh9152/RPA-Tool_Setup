@@ -1,0 +1,8 @@
+Framework Commponents
+-Test case standardization
+-Log
+-Test Data & configuration utility.
+-Helper/Utility library
+-Test execution engine.
+-Report 
+
